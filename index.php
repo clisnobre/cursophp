@@ -1,5 +1,5 @@
 ﻿<?php
 
-echo "<STRONG>Hello<STRONG>!"
+echo "<i><STRONG>Hello<STRONG></i>!"
 
 ?>
